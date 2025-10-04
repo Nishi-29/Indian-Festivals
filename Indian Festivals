@@ -21,6 +21,7 @@
         --footer-bg: rgba(0,0,0,0.6);
     }
 
+    /* Animated Gradient Background */
     body {
         margin: 0;
         padding: 0;
@@ -210,12 +211,12 @@
 
 <footer>
     Created by <strong>Nishigandha Awlankar</strong> | 
-    <a href="https://github.com/yourusername" target="_blank">GitHub</a> |
+    <a href="https://github.com/Nishi-29" target="_blank">GitHub</a> |
+    <a href="https://www.linkedin.com/in/nishigandha-awlankar-43a671321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">LinkedIn</a> |
     <a href="https://www.instagram.com/yourusername" target="_blank">Instagram</a>
 </footer>
 
 <script>
-// Back to top button
 const backToTop = document.getElementById('backToTop');
 const themeToggle = document.getElementById('themeToggle');
 const body = document.body;
